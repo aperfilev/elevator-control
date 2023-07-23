@@ -1,0 +1,37 @@
+# .NET and Visual Studio
+.vs/
+*.sln
+*.csproj
+*.user
+bin/
+obj/
+
+# Build artifacts
+[Oo]ut/
+_Debug/
+Release/
+TestResults/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio code
+.vscode/
+*.vscode/
+
+# Editor specific
+*~
+*.swp
+*.swo
+*.swn
+*.swo
+*.swt
+*.mta
+*.mtb
+*.dotSettings
+*.docstates
