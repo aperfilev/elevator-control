@@ -16,7 +16,6 @@
 namespace ElevatorControl.Controllers;
 
 using Microsoft.AspNetCore.Mvc;
-using ElevatorControl.ElevatorControlSystem;
 using ElevatorControl.DTOs;
 
 [ApiController]

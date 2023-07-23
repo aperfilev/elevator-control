@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-namespace ElevatorControl.ElevatorControlSystem;
+namespace ElevatorControl;
 
 using System;
 using System.Collections.Generic;
@@ -23,7 +23,7 @@ public class ElevatorControlSystem
 {
     public List<Elevator> Elevators { get; set; }
 
-    public ElevatorControlSystem(int numberOfElevators)
+    public ElevatorControlSystem(int numberOfElevators = 5)
     {
         Elevators = new List<Elevator>();
 
