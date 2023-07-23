@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-namespace ElevatorControl.ElevatorControlSystem;
+namespace ElevatorControl;
 
 using Xunit;
 using Moq;
